@@ -1,1 +1,29 @@
-# no redirects needed yet
+# 301 redirects for renamed blog posts (v11 localization)
+/blog/hydro-jetting-vs-snaking/ /blog/hydro-jetting-vs-snaking-des-moines-wa/ 301
+/blog/hydro-jetting-vs-snaking /blog/hydro-jetting-vs-snaking-des-moines-wa/ 301
+/blog/sewer-line-root-intrusion-guide/ /blog/sewer-line-root-intrusion-kent-wa/ 301
+/blog/sewer-line-root-intrusion-guide /blog/sewer-line-root-intrusion-kent-wa/ 301
+/blog/septic-vs-city-sewer/ /blog/septic-vs-city-sewer-black-diamond-wa/ 301
+/blog/septic-vs-city-sewer /blog/septic-vs-city-sewer-black-diamond-wa/ 301
+/blog/why-older-homes-still-have-galvanized-pipes/ /blog/why-older-kent-wa-homes-still-have-galvanized-pipes/ 301
+/blog/why-older-homes-still-have-galvanized-pipes /blog/why-older-kent-wa-homes-still-have-galvanized-pipes/ 301
+/blog/tank-vs-tankless-water-heaters/ /blog/tank-vs-tankless-water-heaters-kent-wa/ 301
+/blog/tank-vs-tankless-water-heaters /blog/tank-vs-tankless-water-heaters-kent-wa/ 301
+/blog/water-heater-smells-like-rotten-eggs/ /blog/water-heater-smells-like-rotten-eggs-kent-wa/ 301
+/blog/water-heater-smells-like-rotten-eggs /blog/water-heater-smells-like-rotten-eggs-kent-wa/ 301
+/blog/is-this-a-real-plumbing-emergency/ /blog/is-this-a-real-plumbing-emergency-kent-wa/ 301
+/blog/is-this-a-real-plumbing-emergency /blog/is-this-a-real-plumbing-emergency-kent-wa/ 301
+/blog/sump-pump-101-green-river-valley/ /blog/sump-pump-101-kent-wa-green-river-valley/ 301
+/blog/sump-pump-101-green-river-valley /blog/sump-pump-101-kent-wa-green-river-valley/ 301
+/blog/toilet-running-nonstop-whats-wrong/ /blog/toilet-running-nonstop-kent-wa/ 301
+/blog/toilet-running-nonstop-whats-wrong /blog/toilet-running-nonstop-kent-wa/ 301
+/blog/garbage-disposal-humming-not-spinning/ /blog/garbage-disposal-humming-black-diamond-wa/ 301
+/blog/garbage-disposal-humming-not-spinning /blog/garbage-disposal-humming-black-diamond-wa/ 301
+/blog/boiler-vs-furnace-which-do-you-have/ /blog/boiler-vs-furnace-which-do-you-have-kent-wa/ 301
+/blog/boiler-vs-furnace-which-do-you-have /blog/boiler-vs-furnace-which-do-you-have-kent-wa/ 301
+/blog/commercial-grease-trap-maintenance-guide/ /blog/commercial-grease-trap-maintenance-tukwila-wa/ 301
+/blog/commercial-grease-trap-maintenance-guide /blog/commercial-grease-trap-maintenance-tukwila-wa/ 301
+/blog/warm-spot-on-floor-what-it-might-mean/ /blog/warm-spot-on-floor-kent-wa/ 301
+/blog/warm-spot-on-floor-what-it-might-mean /blog/warm-spot-on-floor-kent-wa/ 301
+/blog/is-bottled-water-better-than-tap-water/ /blog/is-bottled-water-better-than-kent-wa-tap-water/ 301
+/blog/is-bottled-water-better-than-tap-water /blog/is-bottled-water-better-than-kent-wa-tap-water/ 301
