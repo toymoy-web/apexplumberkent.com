@@ -322,3 +322,9 @@ footer .wrap a{overflow-wrap:anywhere}
 .hamburger{min-width:44px;min-height:44px;align-items:center;justify-content:center}
 @media(max-width:768px){.hamburger{display:inline-flex}}
 .drawer-close{min-width:44px;min-height:44px}
+
+/* v12 social */
+.footer-social{max-width:1180px;margin:24px auto 0;padding:16px 24px 0;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px}
+.footer-social h3{margin:0 8px 0 0;font-size:15px;flex-basis:100%}
+.footer-social a{display:inline-flex;align-items:center;min-height:44px;padding:0 4px;font-weight:600}
+@media(min-width:700px){.footer-social h3{flex-basis:auto}}
